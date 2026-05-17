@@ -1,0 +1,3 @@
+# Ignore sensitive Firebase Keys
+serviceAccountKey.json
+smart_apmc/android/app/google-services.json

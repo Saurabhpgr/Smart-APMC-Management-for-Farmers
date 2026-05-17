@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "334641939123",
+    "project_id": "smart-apmc-system-35e3e",
+    "storage_bucket": "smart-apmc-system-35e3e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334641939123:android:26c0cb81e36d1a57c0a6c6",
+        "android_client_info": {
+          "package_name": "com.smartapmc.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABtxaQEqUech5Lh2_JGoV8gmDVzUgiuts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
